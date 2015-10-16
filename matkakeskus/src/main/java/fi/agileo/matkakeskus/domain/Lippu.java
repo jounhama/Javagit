@@ -1,6 +1,4 @@
-package fi.agileo.matkakeskus.domain;
-
-import luokat.*;
+package luokat;
 
 public class Lippu {
 	private int LipunNro;

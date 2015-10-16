@@ -1,4 +1,4 @@
-package luokat;
+package fi.agileo.matkakeskus.domain;
 
 import static org.junit.Assert.*;
 

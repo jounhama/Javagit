@@ -1,4 +1,4 @@
-package luokat;
+package fi.agileo.matkakeskus.domain;
 
 public class Matkustaja {
 	private int id;         

@@ -6,4 +6,4 @@ tmp/
 *.tmp
 *.bak
 .settings/
--project
+.project
